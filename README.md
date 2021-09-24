@@ -1,0 +1,1 @@
+JavaScript program that will validate an email address.
